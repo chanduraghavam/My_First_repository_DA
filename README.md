@@ -21,8 +21,5 @@
 		• Create a new column named Day with the first 2 characters of each 'Product ID' using the LEFT function.
 		• Create a new column named Country Code by extracting the last 2 characters from the 'Product ID' column using the RIGHT function.
 		• Create a new column named Month by extracting 4th to 6th characters from the 'Product ID' column using the MID function.
-		
-<img width="1197" height="442" alt="image" src="https://github.com/user-attachments/assets/547d331e-4c03-4ffe-a492-9a269e142b1d" />
-
 The project includes data exploration, calculations, categorization, and analysis using formulas such as SUM, COUNT, AVERAGE, MIN, MAX, and IF. The dataset is examined to identify patterns, compare values, and understand the overall characteristics of the data.
 
